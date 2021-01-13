@@ -1,2 +1,0 @@
-# GeoApp
-geodjango

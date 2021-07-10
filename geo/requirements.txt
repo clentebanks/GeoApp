@@ -7,7 +7,6 @@ colorama==0.4.4
 dj-database-url==0.5.0
 Django==3.1.5
 folium==0.12.0
-GDAL @ file:///C:/Users/clent/OneDrive/Documentos/My_django_App/GDAL-3.1.4-cp39-cp39-win_amd32.whl
 gunicorn==20.0.4
 idna==2.10
 isort==5.7.0

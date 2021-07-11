@@ -12,7 +12,6 @@ https://docs.djangoproject.com/en/3.1/ref/settings/
 
 from pathlib import Path
 import os
-from os import environ
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -142,5 +141,3 @@ STATICFILES_DIRS = [
  
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
-GEOS_LIBRARY_PATH = environ.get('GDAL @ file:///C:/Users/clent/OneDrive/Documentos/My_django_App/GDAL-3.1.4-cp39-cp39-win_amd32.whl')
-GDAL_LIBRARY_PATH = environ.get('GDAL @ file:///C:/Users/clent/OneDrive/Documentos/My_django_App/GDAL-3.1.4-cp39-cp39-win_amd32.whl')

@@ -12,6 +12,7 @@ idna==2.10
 isort==5.7.0
 Jinja2==2.11.2
 lazy-object-proxy==1.4.3
+GDAL @ file:///C:/Users/clent/OneDrive/Documentos/My_django_App/GDAL-3.1.4-cp39-cp39-win_amd32.whl
 lxml==4.6.2
 MarkupSafe==1.1.1
 mccabe==0.6.1
